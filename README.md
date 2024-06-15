@@ -3,6 +3,7 @@
 TP 2 - Inteligencia Artificial
 
 Integrantes
+
 -Christopher Sebastian, Charaf Herrera
 
 -Maria Fabiana, Cid
