@@ -1,2 +1,8 @@
 # house-regression-ridge
-TP2: Regresión del valor de valor medio de casas en distritos de California
+
+TP 2 - Inteligencia Artificial
+Integrantes
+-Christopher Sebastian, Charaf Herrera
+-Maria Fabiana, Cid
+-Santiago Jose, Olaciregui
+-Gustavo Julián, Rivas
